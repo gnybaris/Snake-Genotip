@@ -1,11 +1,8 @@
-# Snake
-
-[![][badge-travis]][build-travis] [![][badge-appveyor]][build-appveyor] ![][badge-python]
+# Snake Genotip
 
 ```
-$ pip3 install -r requirements.txt
-
+$ pip3 install -r kurulum.txt
 # Use -h for more details
 $ python3 run.py [-h]
-```
 $ python3 run.py
+```
