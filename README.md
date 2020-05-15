@@ -6,3 +6,5 @@ $ pip3 install -r kurulum.txt
 $ python3 run.py [-h]
 $ python3 run.py
 ```
+
+**MATLAB üzerinden detaylı inceleme yapabilirsiniz.
