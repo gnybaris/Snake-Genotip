@@ -13,6 +13,7 @@ Genotip-1 de en güvenli hareketlerle bir döngüde boyunun yettiğince tüm dü
 Genotip-2 de durum çok farklıdır. Genotip-2 ye aç gözlü diyebiliriz bu şekilde güvenli bulduğu en kısa yolda yiyeceğe ulaşmaya çalışır.
 Genotip-3, (Deep Q-Network) adlı derin bir takviye öğrenme algoritması kullanır. Genotip-3 de yılan ilk yanmış olsa da, 3 gen çeşidi arasında boy/zaman grafiği en yüksek olan genotip çeşidir.
 
-https://www.youtube.com/watch?v=s8HOO58iO-Q
+![genotip](genotip.png)
+## [Youtube Link](https://www.youtube.com/watch?v=s8HOO58iO-Q)
 
 **MATLAB üzerinden detaylı inceleme yapabilirsiniz.
